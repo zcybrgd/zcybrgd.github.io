@@ -15,7 +15,7 @@ I'm currently a master's student specializing in Computer Systems and infrastruc
 - *(and more!)*
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zcybrgd&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -23,7 +23,7 @@ I'm currently a master's student specializing in Computer Systems and infrastruc
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcybrgd&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 📫 How to reach me
+## How to reach me
 
 - [Email](mailto:lz_boukhetala@esi.dz)
 - [LinkedIn](https://www.linkedin.com/in/zainebbkh/)
