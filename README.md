@@ -1,7 +1,7 @@
 # zcybrgd.github.io
 # Hi, I'm Zaineb!
 
-I'm currently a master's student specializing in Computer Systems and infrastructure, passionate about Deep Learning (DL), Reinforcement Learning (RL), and related fields. Currently, I'm looking for a final year internship in DL/RL.
+I'm currently a Master's student specializing in Computer Systems and infrastructure engineering, passionate about Deep Learning (DL), Reinforcement Learning (RL), and related fields. Currently, I'm looking for a final year internship in DL/RL.
 
 ## Top Skills
 
